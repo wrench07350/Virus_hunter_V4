@@ -1,0 +1,11 @@
+api_key: '0196010fd366852a1e939a0fe72a0ffdb96fcc08683a2b99755afbf864aeb62d'
+folder_path: 'C:\\Users\\DELL\\Desktop\\BARBIER_PIERRE_V2\\src\\test'
+sleep_time: 15
+file_types:
+   txt
+   docx
+   pdf
+ignore_dirs:
+   C:\\Users\\DELL\\Desktop\\ BARBIER_PIERRE_V2\\src\\test\\ignore
+   C:\\Users\\DELL\\Desktop\\BARBIER_PIERRE_V2\\src\\test\\ignore2
+recursive: true
